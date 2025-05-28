@@ -25,11 +25,5 @@ Innovator with 7+ years of experience designing and deploying intelligent, scala
 - Synthetic Data Generation (GANs, Sim2Real), Object Detection (YOLOv5, SSD, DeepLabV3)
 - NLP, Time Series Forecasting, Neural Networks, Clustering & Ensemble Learning
 
-### 📊 GitHub Stat
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sangeethak&show_icons=true&theme=radical)
-
----
-
 📫 Reach me at: ksangeetha2512@gmail.com | [LinkedIn](https://linkedin.com/in/sangeethakoodappan) | [GitHub](https://github.com/sangeethakgit)
 
-> "Building safer, smarter mobility systems with intelligent agents and real-world data."
