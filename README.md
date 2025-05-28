@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Sangeetha Koodappan
 
-<!--
-**sangeethakgit/sangeethakgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 GenAI Strategist | 🧠 Multi-Agent AI Architect | ⚙️ LLMOps & Efficient AI Engineer
 
-Here are some ideas to get you started:
+Innovator with 7+ years of experience designing and deploying intelligent, scalable AI systems at the intersection of:
+- 🤖 Generative AI, Multi-Agent Architectures, and Autonomous Systems
+- 🔍 Retrieval-Augmented Generation (RAG), LLMOps, Explainable AI
+- 🧠 Inverse Reinforcement Learning, Personalized ADAS Systems, Instruct-tuned LLMs
+- 🕸️ Graph-based Risk Models using Neo4j, RDF, SPARQL
+- ⚙️ Full ML Lifecycle: Model Development, MLOps, Model Drift Detection, Deployment, and Monitoring
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Expertise
+#### Programming & Tools
+- **Languages**: Python, SQL, R, Pyspark
+- **Frameworks**: TensorFlow, PyTorch, LangChain, Huggingface, LlamaIndex, Streamlit, Chainlit, FastAPI, Flask
+- **Cloud Platforms**: AWS, Azure
+- **Databases**: PostgreSQL, MySQL, MongoDB, Hive, Neo4j
+- **MLops, LLMops**: Docker, MLFlow, Databricks
+- **Other Tools**: Kubernetes, Postman, Git, Airflow, Triton, PowerBi, Tableau, Grafana
+
+#### AI/ML Expertise
+- AI Agents, Generative AI (LLMs, Prompt Engineering, Retrieval-Augmented Generation)
+- Fine-tuning and deploying open & closed-source LLMs (OpenAI, Meta, LLaMA, Claude)
+- Inverse Reinforcement Learning, Explainable AI (SHAP), Model Drift Detection (KS Test)
+- Synthetic Data Generation (GANs, Sim2Real), Object Detection (YOLOv5, SSD, DeepLabV3)
+- NLP, Time Series Forecasting, Neural Networks, Clustering & Ensemble Learning
+
+### 📊 GitHub Stat
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sangeethak&show_icons=true&theme=radical)
+
+---
+
+📫 Reach me at: ksangeetha2512@gmail.com | [LinkedIn](https://linkedin.com/in/sangeethakoodappan) | [GitHub](https://github.com/sangeethakgit)
+
+> "Building safer, smarter mobility systems with intelligent agents and real-world data."
