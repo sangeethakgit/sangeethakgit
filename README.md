@@ -19,7 +19,7 @@ Innovator with 7+ years of experience designing and deploying intelligent, scala
 - **Other Tools**: Kubernetes, Postman, Git, Airflow, Triton, PowerBi, Tableau, Grafana
 
 #### AI/ML Expertise
-- AI Agents, Generative AI (LLMs, Prompt Engineering, Retrieval-Augmented Generation)
+- AI Agents, Generative AI (LLMs, Prompt Engineering, Retrieval Augmented Generation)
 - Fine-tuning and deploying open & closed-source LLMs (OpenAI, Meta, LLaMA, Claude)
 - Inverse Reinforcement Learning, Explainable AI (SHAP), Model Drift Detection (KS Test)
 - Synthetic Data Generation (GANs, Sim2Real), Object Detection (YOLOv5, SSD, DeepLabV3)
